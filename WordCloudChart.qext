@@ -1,0 +1,11 @@
+{
+    "name" : "Word Cloud Chart",
+    "description" : "Word Cloud Chart Based On D3  Library",
+    "icon" : "pie-chart",
+    "type" : "visualization",
+    "version": "1.0.0",
+    "preview" : "pie-chart",
+    "author": "Ruben Albuquerque"
+}
+
+
